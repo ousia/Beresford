@@ -1,13 +1,13 @@
-# R. BERESFORD & R. DOUGLAS "A FIRST GREEK READER"
+# R. Beresford & R. Douglas _A First Greek Reader_
 
-This project aims to publish a digital edition of Beresford and Douglas "A First Greek Reader" (Blackie & Sons, Glasgow, 1902).
+This project aims to publish a digital edition of Beresford and Douglas _A First Greek Reader_ (Blackie & Sons, Glasgow, 1902).
 
 This text is being prepared as part of the [Greek Learner Texts Project](https://greek-learner-texts.org/).
 
 ## Contributors
 
 * Fergus Walsh
-* Dr. Seumas MacDonald
+* Seumas MacDonald
 * James Tauber
 
 If you would like to contribute to this project, please see [here](https://greek-learner-texts.org/) on how to join the Greek Learner Texts Project Slack group.
@@ -19,7 +19,8 @@ Scan on Internet Archive https://archive.org/details/BERESFORDDOUGLAS-AFirstGree
 ## Progress
 
 * Text has been transcribed, checked and validated with [normalisation tools](https://github.com/jtauber/greek-normalisation)
-* Now lemmatising.
+* Now lemmatising
+* Now creating HTML files
 
 ## License
 
