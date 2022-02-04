@@ -19,8 +19,8 @@ Scan on Internet Archive https://archive.org/details/BERESFORDDOUGLAS-AFirstGree
 ## Progress
 
 * Text has been transcribed, checked and validated with [normalisation tools](https://github.com/jtauber/greek-normalisation)
-* Now lemmatising
-* Now creating HTML files
+* HTML files created and can be read [here](https://fergusjpwalsh.github.io/Beresford/index.html)
+* To do: lemmatisation, analysis, vocabulary and reading tools.
 
 ## License
 
