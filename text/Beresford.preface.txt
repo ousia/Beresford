@@ -5,5 +5,4 @@
 0.1.4 It may be mentioned that σσ has been used throughout for ττ and ξυν for συν, for reasons which it is beyond the scope of this preface to discuss.
 0.1.5 The plentiful illustrations are, as in the First Latin Reader, a notable feature of the book; the object being to interest the mind of the pupilo through the eye.
 0.1.6 We take this opportunity of thanking the Rev. H. A. Rhodes, Headmaster of the Preparatory School of Christ's Hospital, for his kindness in revising the proofs.
-0.1.7 R. A. A. Beresford
-0.1.8 Robert N. Douglas
+SB.1 R. A. A. Beresford, Robert N. Douglas
